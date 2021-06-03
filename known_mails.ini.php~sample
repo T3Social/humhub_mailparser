@@ -1,0 +1,5 @@
+;<?php die(); ?>
+
+known_mails[] = 'maxmustermann@mycompany.com:Max Mustermann (@mycompany)'
+known_mails[] = 'maxmustermann@aol.com:Max Mustermann'
+; Any other mail that you want to be recognized (name get's beautified)

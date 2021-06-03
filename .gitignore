@@ -1,0 +1,6 @@
+/kint.phar
+
+*.ini.php
+!/environments/sampledomain.com.ini.php
+
+/logs/**

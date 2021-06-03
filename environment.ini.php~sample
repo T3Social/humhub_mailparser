@@ -1,0 +1,4 @@
+;<?php die(); ?>
+
+; Set the environment here: "/environments/[environment].ini.php"
+environment = "sampledomain.com"
